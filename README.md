@@ -1,51 +1,41 @@
 <h1 align="center">Hi 👋 I'm Ankit Yadav</h1>
-<h3 align="center">Aspiring Data Analyst | SQL • Power BI • Python • Excel</h3>
+<h3 align="center">Aspiring Data Scientist | Data Analyst | SQL • Python • Power BI • Excel</h3>
 
 <p align="center">
-Turning data into insights & dashboards for smart decision-making 📊
+Passionate about turning data into insights, dashboards, and predictive models 📊
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 B.Sc. (Mathematics & Chemistry), Final Year — CGPA: 7.7  
-- 📊 Data Analytics & Data Science Trainee — AnalytixLabs, Noida  
-- 💡 Skilled in data cleaning, analysis, visualization & dashboard creation  
-- 🧠 Strong in SQL, Power BI, Excel, Python & EDA  
-- 🎯 Goal: Data Analyst role in a growth-focused company  
+- 🎓 B.Sc. (Mathematics) Final Year Student  
+- 📊 Data Science & Analytics Trainee  
+- 💡 Strong interest in Data Analysis, Visualization & Machine Learning  
+- 🚀 Goal: Become a professional Data Scientist  
+- 🧠 Focused on building real-world data projects & analytical thinking  
 
 ---
 
-## 🛠 Skills
-**Languages & Tools:**  
-SQL • Python (Pandas, NumPy) • Advanced Excel • Power BI  
+## 🛠 Technical Skills
 
-**Data Analytics:**  
-Data Cleaning • EDA • Dashboard Creation • Data Visualization • Business Insights  
+### 📊 Data Analysis & Querying
+- **Advanced SQL:** Joins, Subqueries, CTEs, Window Functions, Aggregations  
+- Data Cleaning, Data Manipulation & Exploratory Data Analysis (EDA)
 
-**Machine Learning (Basic):**  
-Regression • Classification • Clustering • Model Evaluation  
+### 🐍 Python for Data Science
+- Python (Basics)  
+- NumPy, Pandas  
+- Matplotlib, Seaborn (Visualization)  
 
----
+### 🤖 Machine Learning
+- Regression & Classification  
+- Clustering  
+- Model Building & Evaluation  
+- Scikit-learn (basic implementation)
 
-## 📊 Featured Projects
-🔹 **Superstore Sales Dashboard (Power BI)**  
-Interactive dashboard analyzing sales, customers & operations with key business insights.  
-
-🔹 **E-Commerce Customer & Sales Analysis (SQL + Power BI)**  
-Customer behavior, retention analysis & revenue insights using SQL & dashboards.  
-
-🔹 **Python Data Analysis & ML Projects**  
-EDA, visualization & predictive modeling on real datasets.
-
----
-
-## 💼 Experience
-**Virtual Data Analytics Intern — Deloitte (Forage)**  
-Data analysis, dashboard insights & business reporting  
-
-**Virtual Analytics Intern — Commonwealth Bank**  
-Customer & sales analysis using SQL, Excel & Power BI  
+### 📈 Data Visualization & BI
+- **Power BI:** Dashboard Creation, DAX, Data Modeling  
+- Advanced Excel: Pivot Tables, Lookup, Dashboard, Data Cleaning  
 
 ---
 
@@ -57,5 +47,5 @@ Customer & sales analysis using SQL, Excel & Power BI
 ---
 
 <p align="center">
-⭐ Always learning | 📊 Data enthusiast | 🚀 Future Data Analyst
+🚀 Future Data Scientist | 📊 Data Enthusiast | 🧠 Always Learning
 </p>

@@ -44,7 +44,6 @@ I enjoy turning raw data into meaningful insights and building dashboards that h
 
 ## 🔗 Connect With Me
 📧 Email: ay258357@gmail.com  
-📱 Phone: 9793922013  
 💼 LinkedIn: [Ankit Yadav](https://linkedin.com/in/ankit-yadav007)
 
 ---

@@ -10,7 +10,7 @@ Aspiring Data Analyst | SQL • Power BI • Excel • Python
 I am an aspiring **Data Analyst** with strong skills in data cleaning, analysis, and dashboard creation.  
 I enjoy turning raw data into meaningful insights and building dashboards that help in business decision-making.
 
-🎯 Goal: **To secure a Data Analyst position and build expertise toward becoming a Data Scientist.
+🎯 Goal: To secure a **Data Analyst position** and build strong expertise on the path to becoming a **Data Scientist**.
 
 
 ---

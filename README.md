@@ -1,51 +1,51 @@
-<h1 align="center">Hi 👋 I'm Ankit Yadav</h1>
-<h3 align="center">Aspiring Data Scientist | Data Analyst | SQL • Python • Power BI • Excel</h3>
+<h1 align="center">Hi, I'm Ankit Yadav 👋</h1>
 
 <p align="center">
-Passionate about turning data into insights, dashboards, and predictive models 📊
+Aspiring Data Analyst | SQL • Power BI • Excel • Python
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 B.Sc. (Mathematics) Final Year Student  
-- 📊 Data Science & Analytics Trainee  
-- 💡 Strong interest in Data Analysis, Visualization & Machine Learning  
-- 🚀 Goal: Become a professional Data Scientist  
-- 🧠 Focused on building real-world data projects & analytical thinking  
+I am an aspiring **Data Analyst** with strong skills in data cleaning, analysis, and dashboard creation.  
+I enjoy turning raw data into meaningful insights and building dashboards that help in business decision-making.
+
+🎯 Goal: To get a **Data Analyst role** and grow into an advanced analytics professional.
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Skills
 
-### 📊 Data Analysis & Querying
-- **Advanced SQL:** Joins, Subqueries, CTEs, Window Functions, Aggregations  
-- Data Cleaning, Data Manipulation & Exploratory Data Analysis (EDA)
+### 📊 Data Analysis
+- Advanced Excel (Pivot, Lookup, Dashboard, Data Cleaning)
+- SQL (Joins, Window Functions, CTEs, Aggregations)
+- Power BI (DAX, Data Modeling, Interactive Dashboards)
 
-### 🐍 Python for Data Science
-- Python (Basics)  
-- NumPy, Pandas  
-- Matplotlib, Seaborn (Visualization)  
+### 🐍 Python
+- Basics of Python
+- NumPy, Pandas
+- Matplotlib, Seaborn (Data Visualization)
 
 ### 🤖 Machine Learning
-- Regression & Classification  
-- Clustering  
-- Model Building & Evaluation  
-- Scikit-learn (basic implementation)
-
-### 📈 Data Visualization & BI
-- **Power BI:** Dashboard Creation, DAX, Data Modeling  
-- Advanced Excel: Pivot Tables, Lookup, Dashboard, Data Cleaning  
+- Data Preprocessing  
+- Model Building  
+- Model Evaluation  
 
 ---
 
-## 📫 Connect With Me
-📧 Email: ankityadav07.in@gmail.com  
-🔗 LinkedIn: (paste your linkedin link)  
-💻 GitHub: https://github.com/ankityadavcodes  
+## 📈 What I Do
+- Clean and transform raw data  
+- Analyze business datasets  
+- Create dashboards & reports  
+- Generate actionable insights  
 
 ---
 
-<p align="center">
-🚀 Future Data Scientist | 📊 Data Enthusiast | 🧠 Always Learning
-</p>
+## 🔗 Connect With Me
+📧 Email: ay258357@gmail.com  
+📱 Phone: 9793922013  
+💼 LinkedIn: [Ankit Yadav](https://linkedin.com/in/ankit-yadav007)
+
+---
+
+⭐ Always learning and improving in Data Analytics

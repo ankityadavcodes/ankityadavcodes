@@ -1,45 +1,61 @@
-# Hi, I'm Ankit Yadav 👋
+<h1 align="center">Hi 👋 I'm Ankit Yadav</h1>
+<h3 align="center">Aspiring Data Analyst | SQL • Power BI • Python • Excel</h3>
 
-Aspiring Data Analyst and final-year B.Sc. student specializing in Mathematics & Chemistry, with strong skills in data cleaning, analysis, visualization, and dashboard development. Passionate about turning raw data into meaningful insights for business decision-making.
+<p align="center">
+Turning data into insights & dashboards for smart decision-making 📊
+</p>
 
-## 🎓 Education
-Bachelor of Science (Mathematics & Chemistry)  
-Maharaja Suhel Dev Azamgarh University (Expected May 2026)  
-CGPA: 7.7  
+---
 
-Data Science & Analytics Training – AnalytixLabs, Noida (2024–2025)
+## 👨‍💻 About Me
+- 🎓 B.Sc. (Mathematics & Chemistry), Final Year — CGPA: 7.7  
+- 📊 Data Analytics & Data Science Trainee — AnalytixLabs, Noida  
+- 💡 Skilled in data cleaning, analysis, visualization & dashboard creation  
+- 🧠 Strong in SQL, Power BI, Excel, Python & EDA  
+- 🎯 Goal: Data Analyst role in a growth-focused company  
 
-## 💼 Professional Summary
-Aspiring Data Analyst with hands-on experience in Excel, SQL, Python, and Power BI. Completed virtual projects with Deloitte and Commonwealth Bank. Skilled in data analysis, EDA, dashboard creation, and basic machine learning.
+---
 
-## 🛠 Technical Skills
-**Programming & Analysis:** Python (Pandas, NumPy), SQL, Advanced Excel, EDA  
-**Visualization & BI:** Power BI, Excel, Matplotlib, Seaborn  
-**Machine Learning:** Regression, Classification, Clustering, Random Forest, Decision Trees  
-**Tools:** Jupyter Notebook, Data Cleaning, Dashboard Creation  
+## 🛠 Skills
+**Languages & Tools:**  
+SQL • Python (Pandas, NumPy) • Advanced Excel • Power BI  
 
-## 📊 Projects
-**Superstore Sales Dashboard – Power BI**  
-Interactive dashboard analyzing sales, customer behavior, and operations with actionable insights.
+**Data Analytics:**  
+Data Cleaning • EDA • Dashboard Creation • Data Visualization • Business Insights  
 
-**E-Commerce Customer & Sales Analysis – SQL & Power BI**  
-Analyzed customer behavior, retention, and sales trends for business optimization.
+**Machine Learning (Basic):**  
+Regression • Classification • Clustering • Model Evaluation  
 
-**Python & Machine Learning Projects**  
-Performed EDA, visualization, and predictive modeling on real-world datasets.
+---
+
+## 📊 Featured Projects
+🔹 **Superstore Sales Dashboard (Power BI)**  
+Interactive dashboard analyzing sales, customers & operations with key business insights.  
+
+🔹 **E-Commerce Customer & Sales Analysis (SQL + Power BI)**  
+Customer behavior, retention analysis & revenue insights using SQL & dashboards.  
+
+🔹 **Python Data Analysis & ML Projects**  
+EDA, visualization & predictive modeling on real datasets.
+
+---
 
 ## 💼 Experience
-**Virtual Data Analytics Internship – Deloitte (Forage)**  
-Data analysis, aggregation, anonymization, dashboard reporting.
+**Virtual Data Analytics Intern — Deloitte (Forage)**  
+Data analysis, dashboard insights & business reporting  
 
-**Virtual Internship – Commonwealth Bank**  
-Customer and sales analysis using Excel, SQL, Power BI.
+**Virtual Analytics Intern — Commonwealth Bank**  
+Customer & sales analysis using SQL, Excel & Power BI  
 
-**Practical Training – AnalytixLabs, Noida**  
-Hands-on projects in SQL, Python, Power BI, and Machine Learning.
+---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 📧 Email: ankityadav07.in@gmail.com  
-📱 Phone: 9793922013  
-🔗 LinkedIn: (add your linkedin link)  
-💻 GitHub: https://github.com/ankityadavcodes
+🔗 LinkedIn: (paste your linkedin link)  
+💻 GitHub: https://github.com/ankityadavcodes  
+
+---
+
+<p align="center">
+⭐ Always learning | 📊 Data enthusiast | 🚀 Future Data Analyst
+</p>

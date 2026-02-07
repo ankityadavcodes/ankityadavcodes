@@ -43,7 +43,7 @@ I enjoy turning raw data into meaningful insights and building dashboards that h
 ---
 
 ## 🔗 Connect With Me
-📧 Email: ay258357@gmail.com  
+📧 Email: ankityadav07.in@gmail.com  
 💼 LinkedIn: [Ankit Yadav](https://linkedin.com/in/ankit-yadav007)
 💻 GitHub: [ankityadavcodes](https://github.com/ankityadavcodes ) 
 
